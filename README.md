@@ -7,3 +7,5 @@
 ![Главная страница](screenshots/screenshot_1.png)
 
 ![Портфолио](screenshots/screenshot_2.png)
+
+![Меню](screenshots/screenshot_3.png) ![Портфолио главный](screenshots/screenshot_4.png) ![Сертификаты](screenshots/screenshot_5.png)
