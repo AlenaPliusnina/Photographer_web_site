@@ -2,4 +2,6 @@
 
     JavaScript, Vue.js, Flexbox, Grid, адаптивный дизайн
 
+Сайт доступен по адресу: http://leraphoto.ru
+
 ![Главная страница](screenshots/screenshot_1.png)
