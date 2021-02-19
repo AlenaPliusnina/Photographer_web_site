@@ -1,5 +1,5 @@
-# Photographer_web_site
+# Photographer_web_site / Сайт для фотографа
 
-Сайт для фотографа на Vue.js
+    JavaScript, Vue.js, Flexbox, Grid
 
 ![Главная страница](screenshots/screenshot_1.png)
