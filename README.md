@@ -8,4 +8,4 @@
 
 ![Портфолио](screenshots/screenshot_2.png)
 
-![Меню](screenshots/screenshot_3.png) ![Портфолио главный](screenshots/screenshot_4.png) ![Сертификаты](screenshots/screenshot_5.png)
+![Меню](screenshots/screenshot_3.PNG) ![Портфолио главный](screenshots/screenshot_4.PNG) ![Сертификаты](screenshots/screenshot_5.PNG)
